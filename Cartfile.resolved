@@ -1,0 +1,4 @@
+binary "https://building42.github.io/Specs/Carthage/iOS/Crashlytics.json" "3.14.0"
+binary "https://building42.github.io/Specs/Carthage/iOS/Fabric.json" "1.10.2"
+github "Quick/Nimble" "v8.0.4"
+github "Quick/Quick" "v2.2.0"
