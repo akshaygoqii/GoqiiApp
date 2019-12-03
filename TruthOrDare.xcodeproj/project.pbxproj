@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65FB167F2396818C005D84DD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65FB167E2396818C005D84DD /* GoogleService-Info.plist */; };
+		65FB16802396818C005D84DD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 65FB167E2396818C005D84DD /* GoogleService-Info.plist */; };
 		AB654D7D212D686700080E76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB654D7C212D686700080E76 /* AppDelegate.swift */; };
 		AB654D7F212D686700080E76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB654D7E212D686700080E76 /* ViewController.swift */; };
 		AB654D82212D686700080E76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB654D80212D686700080E76 /* Main.storyboard */; };
@@ -45,6 +47,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		65FB167E2396818C005D84DD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		AB654D79212D686700080E76 /* TruthOrDare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TruthOrDare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB654D7C212D686700080E76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AB654D7E212D686700080E76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -85,6 +88,7 @@
 		AB654D70212D686700080E76 = {
 			isa = PBXGroup;
 			children = (
+				65FB167E2396818C005D84DD /* GoogleService-Info.plist */,
 				ABAF8A6D2130372C001DA576 /* Nimble.framework */,
 				ABAF8A6E2130372C001DA576 /* Quick.framework */,
 				AB654D7B212D686700080E76 /* TruthOrDare */,
@@ -219,6 +223,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB654D87212D686800080E76 /* LaunchScreen.storyboard in Resources */,
+				65FB167F2396818C005D84DD /* GoogleService-Info.plist in Resources */,
 				AB654D84212D686800080E76 /* Assets.xcassets in Resources */,
 				AB654D82212D686700080E76 /* Main.storyboard in Resources */,
 			);
@@ -228,6 +233,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65FB16802396818C005D84DD /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

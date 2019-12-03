@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624371676021-3if9mt7spji7gsfkrqg1j2jti59qf9s4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624371676021-3if9mt7spji7gsfkrqg1j2jti59qf9s4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQPjL-jFToblnmKp0bocibukU5UFWLrfI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624371676021</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.goqii.goqiiplayerapp</string>
+	<key>PROJECT_ID</key>
+	<string>goqiijenkins</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goqiijenkins.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624371676021:ios:a70c0355ccb8f782f4993c</string>
+	<key>DATABASE_URL</key>
+	<string>https://goqiijenkins.firebaseio.com</string>
+</dict>
+</plist>
