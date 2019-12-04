@@ -424,7 +424,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: goqii INC. (57L9924Q6D)";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 57L9924Q6D;
+				DEVELOPMENT_TEAM = 2DL4GZTHW2;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
@@ -449,7 +449,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Distribution: goqii INC. (57L9924Q6D)";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = 57L9924Q6D;
+				DEVELOPMENT_TEAM = 2DL4GZTHW2;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Carthage/Build/iOS",
