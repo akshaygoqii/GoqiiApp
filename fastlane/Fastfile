@@ -28,3 +28,4 @@ platform :ios do
             workspace: "TruthOrDare.xcworkspace",
             include_bitcode: false)
 end
+end
