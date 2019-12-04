@@ -23,8 +23,8 @@ platform :ios do
       scheme: "TruthOrDare")
   end
  
-  lane :CD do |values|
- 
-    gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')
- 
+  lane :CD do
+  build_app(scheme: "TruthOrDare",
+            workspace: "TruthOrDare.xcworkspace",
+            include_bitcode: false)
 end
