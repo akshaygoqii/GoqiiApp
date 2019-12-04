@@ -27,7 +27,4 @@ platform :ios do
  
     gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')
  
-
- 
-    end
 end
