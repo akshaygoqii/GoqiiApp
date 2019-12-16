@@ -19,7 +19,7 @@ platform :ios do
   desc "Description of what the lane does"
   lane :CI do
       run_tests(project: "TruthOrDare.xcodeproj",
-      devices: ["iPhone 8"],
+      devices: ["iPhone 11"],
       scheme: "TruthOrDare")
   end
  
