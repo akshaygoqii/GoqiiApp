@@ -19,7 +19,7 @@ platform :ios do
   desc "Description of what the lane does"
   lane :CI do
       run_tests(project: "TruthOrDare.xcodeproj",
-      devices: ["iPhone 6s"],
+      devices: ["iPhone 8"],
       scheme: "TruthOrDare")
   end
  
@@ -27,7 +27,7 @@ platform :ios do
  
     gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')
  
-    emails = values[:test_email] ? values[:test_email] : ['[email]'] # You can list more emails here
+    emails = values[:akshay.band@goqii.com] ? values[:subhojit@goqii.com] : ['[email]'] # You can list more emails here
     groups = values[:test_email] ? nil : nil # You can define groups on the web and reference them here
  
     crashlytics(api_token: '[AIzaSyCQPjL-jFToblnmKp0bocibukU5UFWLrfI]',
