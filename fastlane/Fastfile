@@ -25,8 +25,7 @@ platform :ios do
  
   lane :CD do |values|
  
- gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')		    gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')
-
+ gym(scheme: 'TruthOrDare', project: "TruthOrDare.xcodeproj", clean: true, silent: true, include_bitcode: false, export_method: 'ad-hoc')		 
 
      emails = values[:akshay.band@goqii.com] ? values[:test_email] : ['[email]'] # You can list more emails here		
      groups = values[:test_email] ? nil : nil # You can define groups on the web and reference them here		
